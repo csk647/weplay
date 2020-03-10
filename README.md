@@ -19,7 +19,7 @@
 <tr>
     <td>8</td>
     <td>18</td>
-    <td>23</td>
+    <td>(23)</td>
     <td>12</td>
     <td>24</td>
 </tr>
