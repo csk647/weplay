@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td>13</td>
-    <td>9</td>
+    <td>(9)</td>
     <td>3</td>
     <td>19</td>
     <td>16</td>
