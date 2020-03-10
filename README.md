@@ -31,7 +31,7 @@
     <td>7</td>
 </tr>
 <tr>
-    <td>13</td>
+    <td>(13)</td>
     <td>(9)</td>
     <td>3</td>
     <td>19</td>
